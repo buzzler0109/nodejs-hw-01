@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "id": "f67838bf-2be4-4270-919e-c3d03d4e51fd",
+    "name": "Dr. Shelley Stiedemann",
+    "phone": "1-400-220-5361 x414",
+    "email": "Ollie69@yahoo.com",
+    "job": "Chief Division Designer"
+  },
+  {
+    "id": "6a5a9b9e-0bff-4bec-87fd-212f9ae35129",
+    "name": "Aaron Raynor",
+    "phone": "(770) 589-9497 x77750",
+    "email": "Karlee17@hotmail.com",
+    "job": "Future Quality Supervisor"
+  },
+  {
+    "id": "51cdc773-2848-4f05-90d8-0122ccc67165",
+    "name": "Jennifer Murray",
+    "phone": "(546) 622-1158 x981",
+    "email": "Oliver.Beatty@hotmail.com",
+    "job": "Lead Quality Administrator"
+  },
+  {
+    "id": "9c65af18-778f-4d95-a2b3-28f943438ac5",
+    "name": "Jeff Price",
+    "phone": "1-923-951-8880 x17212",
+    "email": "Tomasa.Bruen94@hotmail.com",
+    "job": "Regional Creative Producer"
+  }
+]
